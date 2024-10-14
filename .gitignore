@@ -1,0 +1,11 @@
+.env
+.bsp/*
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea/*
+
+### Mac OS ###
+.DS_Store
